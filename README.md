@@ -1,5 +1,2 @@
 # AI-RTT
-AI-Red Team Testing
-Supporting Python Scripts for the website https://www.ai-rtt.com
-Scripts are linked to Google Colab
-Users have access to use and learn.
+AI-Red Team Testing. These are supporting Python Scripts for the website https://www.ai-rtt.com, the scripts are linked to Google Colab, where users have access to run and learn.
